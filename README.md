@@ -8,7 +8,7 @@ Furthermore, there is a massive ambiguity in how job titles are used by employer
 ## 📌 Project Overview
 An end-to-end data analytics pipeline built to uncover the real demand for technical skills in the Egyptian market. By scraping live job postings, designing a relational Snowflake data model, and visualizing the results, this project highlights the critical skills gap, core tool stacks, and geographic distribution across 1,595 verified, clean data roles.
 
-### 📸 Dashboard Executive Summary
+###  Dashboard Executive Summary
 <img width="1332" height="744" alt="Summary" src="https://github.com/user-attachments/assets/ac92e2c2-a837-41e1-a631-32f231cb3117" />
 
 ---
