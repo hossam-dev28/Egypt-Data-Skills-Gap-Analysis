@@ -1,5 +1,13 @@
 # 📊 Egypt Tech Job Market & Data Skills Gap Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
+> An end-to-end data analytics pipeline and interactive dashboard uncovering real-world skill demands across the Egyptian tech market — built with Python, SQL Server, and Power BI.
+
+---
 ## 🎯 Business Problem
 Many entry-level candidates and professionals in Egypt struggle to identify the exact technical skills and tools actually demanded by the local tech market. The disconnect between academic training and real-world employer requirements leaves job seekers misdirected in their learning efforts. 
 
