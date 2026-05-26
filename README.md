@@ -5,7 +5,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
-> An end-to-end data analytics pipeline and interactive dashboard uncovering real-world skill demands across the Egyptian tech market — built with Python, SQL Server, and Power BI.
+
 
 ---
 ## 🎯 Business Problem
