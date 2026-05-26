@@ -6,13 +6,14 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
 ---
+## 📌 Project Overview
+An end-to-end data analytics pipeline built to uncover the real demand for technical skills in the Egyptian market. By scraping live job postings, designing a relational Snowflake data model, and visualizing the results, this project highlights the critical skills gap, core tool stacks, and geographic distribution across 1,595 verified, clean data roles.
+
 ## 🎯 Business Problem
 Many entry-level candidates and professionals in Egypt struggle to identify the exact technical skills and tools actually demanded by the local tech market. The disconnect between academic training and real-world employer requirements leaves job seekers misdirected in their learning efforts. 
 
 Furthermore, there is a massive ambiguity in how job titles are used by employers locally. This project solves this problem by extracting, cleaning, and analyzing live market data from Tanqeeb.com to provide a clear, data-driven roadmap for data professionals, exposing the reality of tool demand across 7 distinct data roles.
 
-## 📌 Project Overview
-An end-to-end data analytics pipeline built to uncover the real demand for technical skills in the Egyptian market. By scraping live job postings, designing a relational Snowflake data model, and visualizing the results, this project highlights the critical skills gap, core tool stacks, and geographic distribution across 1,595 verified, clean data roles.
 
 ###  Dashboard Executive Summary
 <img width="1332" height="744" alt="Summary" src="https://github.com/user-attachments/assets/ac92e2c2-a837-41e1-a631-32f231cb3117" />
